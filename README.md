@@ -206,7 +206,7 @@ assignment: if we assign a `String` or the result of an arithmetic expression to
 a variable, those assignments are not hoisted either.
 
 **LAB**: Implement a function expression called `mondayWork`. The function
-should return a `String` like `"This Monday, I will ... ."` Fill in the `...`
+should return a `String` like ` Fill in the `...`
 with the activity that's passed in as the first parameter. If nothing is passed
 in, default to `"go to the office"`. Run `learn` to verify you've gotten this
 set of tests passing before continuing with the lesson.
